@@ -1,0 +1,9 @@
+2005-12-16 -- ParMol 1078
+-------------------------
+- fixed a NPE in AbstractMiner
+- fixed an error in the LineGraphParser
+
+
+2005-10-19 -- ParMol 974
+-------------------------
+initial version
